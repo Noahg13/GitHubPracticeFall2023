@@ -1,5 +1,4 @@
-'''
-Created on Nov 9, 2023
+#grubernw.py
 
-@author: 13177
-'''
+def grubernw():
+    print("hi")
